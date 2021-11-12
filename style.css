@@ -1,0 +1,52 @@
+#main{
+    margin: 29px 9px;
+    padding: 16px;
+    border-radius: 6px;
+    background: lightgrey;
+    text-align: center;
+    font-size: 1rem;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+h1{
+    font-size: 3rem;
+    font-weight: bold;
+}
+#img-div{
+    background: white;
+    padding: 9px;
+    margin: 0;
+}
+#img-caption{
+    opacity: 0.7;
+}
+h3{
+    font-weight: bold;
+}
+ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+li{
+    margin: 16px 0;
+    display: list-item;
+}
+#quote{
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+#reference{
+    font-weight: bold;
+}

@@ -1,0 +1,1 @@
+Resultado do projeto do freecodeCamp ["Tribute Page"](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) - 10/10 passed tests
